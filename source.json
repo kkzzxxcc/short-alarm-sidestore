@@ -1,0 +1,28 @@
+{
+  "name": "짧은알람",
+  "identifier": "com.local.short-alarm-ios.sidestore",
+  "sourceURL": "https://kkzzxxcc.github.io/short-alarm-sidestore/source.json",
+  "apps": [
+    {
+      "name": "짧은알람",
+      "bundleIdentifier": "com.local.short-alarm-ios",
+      "developerName": "Local",
+      "subtitle": "정해진 초만 울리는 짧은 알람",
+      "localizedDescription": "5초, 10초, 15초, 30초 중 선택한 길이의 알림 사운드만 재생되는 로컬 알람 앱입니다.",
+      "iconURL": "https://kkzzxxcc.github.io/short-alarm-sidestore/icon.png",
+      "tintColor": "ED5334",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-07-09T05:55:17Z",
+          "localizedDescription": "v0.1.0 MVP: 알람 CRUD, 짧은 사운드, 테스트 알림, 업데이트 확인.",
+          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.1.0/ShortAlarmIOS-v0.1.0.ipa",
+          "size": 235889,
+          "sha256": "941a125502c5201b9e5dd0e99ee946d44aec7dce2fdabdbbf68a4c1b6c3fa687"
+        }
+      ]
+    }
+  ]
+}
