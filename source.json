@@ -14,6 +14,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.1",
+          "buildVersion": "3",
+          "date": "2026-07-09T10:25:46Z",
+          "localizedDescription": "v0.2.1: 업데이트 화면의 현재 앱 섹션을 정리하고 버전 비교 정보를 맨 위에 합쳤습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.2.1/ShortAlarmIOS-v0.2.1.ipa",
+          "size": 395505,
+          "sha256": "5c1cf3ce53519410df1228aad0257e3f2b25139c1d0165dcc4ad07438daa408e"
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "2",
           "date": "2026-07-09T06:26:39Z",
