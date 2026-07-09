@@ -16,9 +16,9 @@
         {
           "version": "0.1.0",
           "buildVersion": "1",
-          "date": "2026-07-09T05:58:40Z",
+          "date": "2026-07-09T05:59:52Z",
           "localizedDescription": "v0.1.0 MVP: 알람 CRUD, 짧은 사운드, 테스트 알림, 업데이트 확인.",
-          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.1.0/ShortAlarmIOS-v0.1.0.ipa",
+          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.1.0/ShortAlarmIOS-v0.1.0-1.ipa",
           "size": 300558,
           "sha256": "f089e95d075c0b192b791ea6d86abefad71ee8c4ec85c79dcd63b2e06449bc25"
         }
