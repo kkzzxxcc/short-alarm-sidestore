@@ -14,9 +14,18 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.2",
+          "buildVersion": "4",
+          "date": "2026-07-09T11:02:02Z",
+          "localizedDescription": "v0.2.2: 알림 권한 자동 요청, foreground 알림 표시 delegate 고정, 테스트 예약 진단 표시를 추가했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.2.2/ShortAlarmIOS-v0.2.2.ipa",
+          "size": 402851,
+          "sha256": "b72f8746cd8cfff0d4db590e58095776b805617ce4fb2b82dba83587b0670790"
+        },
+        {
           "version": "0.2.1",
           "buildVersion": "3",
-          "date": "2026-07-09T10:25:46Z",
+          "date": "2026-07-09T10:26:31Z",
           "localizedDescription": "v0.2.1: 업데이트 화면의 현재 앱 섹션을 정리하고 버전 비교 정보를 맨 위에 합쳤습니다.",
           "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.2.1/ShortAlarmIOS-v0.2.1.ipa",
           "size": 395505,
