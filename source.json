@@ -14,6 +14,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.3",
+          "buildVersion": "5",
+          "date": "2026-07-10T00:14:30Z",
+          "localizedDescription": "v0.2.3: 사이렌형 사운드를 제거하고 5가지 알람 사운드 선택, 미리 듣기, 테스트 알림 사운드 선택을 추가했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.2.3/ShortAlarmIOS-v0.2.3.ipa",
+          "size": 4563536,
+          "sha256": "ad28e444ec1885cd8415f9342436032a692173f53e5dcd6e2ea758e572197ff4"
+        },
+        {
           "version": "0.2.2",
           "buildVersion": "4",
           "date": "2026-07-09T11:02:02Z",
