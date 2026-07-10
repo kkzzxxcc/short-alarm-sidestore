@@ -14,9 +14,18 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.4",
+          "buildVersion": "6",
+          "date": "2026-07-10T00:33:22Z",
+          "localizedDescription": "v0.2.4: 무음 모드 경고 표시를 추가하고 미리 듣기, 테스트 예약, foreground 알림에 햅틱 피드백을 더했습니다.",
+          "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.2.4/ShortAlarmIOS-v0.2.4.ipa",
+          "size": 4565455,
+          "sha256": "0784e645105efd4091919f55acff371c23002f1bd4e75a2e9f8b538a610cb842"
+        },
+        {
           "version": "0.2.3",
           "buildVersion": "5",
-          "date": "2026-07-10T00:14:30Z",
+          "date": "2026-07-10T00:13:56Z",
           "localizedDescription": "v0.2.3: 사이렌형 사운드를 제거하고 5가지 알람 사운드 선택, 미리 듣기, 테스트 알림 사운드 선택을 추가했습니다.",
           "downloadURL": "https://github.com/kkzzxxcc/short-alarm-sidestore/releases/download/v0.2.3/ShortAlarmIOS-v0.2.3.ipa",
           "size": 4563536,
